@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://your-kaadiAi-logo-url-here.png" alt="kaadiAi" width="200">
+  ![Colorful Modern Infinity Creative Studio Logo](https://github.com/bahnirida/kaadiAi/assets/163600119/ccf26a69-ed76-49fe-a91d-0681e78aa67c)
   <br>
   kaadiAi
   <br>
