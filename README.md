@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/bahnirida/kaadiAi/assets/163600119/ccf26a69-ed76-49fe-a91d-0681e78aa67c" alt="Gitter">
+  <img src="https://github.com/bahnirida/kaadiAi/assets/163600119/ccf26a69-ed76-49fe-a91d-0681e78aa67c" height="200px" alt="Gitter">
   <br>
   kaadiAi
   <br>
