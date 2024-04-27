@@ -10,7 +10,7 @@ public class ChatController {
 
     @Autowired
     private ChatClient chatClient;
-    @GetMapping()
+    @GetMapping("/")
     public String chat(String query){
         String response = chatClient.call(query);
         return response;
